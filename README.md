@@ -31,4 +31,4 @@ gist
 
 方法二：
 
-Fork本项目，到config.json里面修改uuid或其它，然后到Dockerfile里面修改ENV CONFIG= 指向链接，例如：ENV CONFIG=https://raw.githubusercontent.com/yeahwu/kinto/master/config.json指向你自己项目的config.json文件。
+Fork本项目，到config.json里面修改uuid或其它，然后到Dockerfile里面修改ENV CONFIG= 指向链接，例如：ENV CONFIG=https://raw.githubusercontent.com/xuhao4824/kinto/master/config.json指向你自己项目的config.json文件。
